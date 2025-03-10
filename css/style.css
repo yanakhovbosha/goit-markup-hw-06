@@ -1053,7 +1053,7 @@ button {
 @media screen and (min-width: 1158px) {
     .footer .container {
         flex-wrap: nowrap;
-        margin-left: 0;
+        margin-left: auto;
         gap: 0;
     }
     .footer-one {
