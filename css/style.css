@@ -702,9 +702,9 @@ button {
         gap: 64px 24px;
 }
 
-    .section-two-list-item {
+    /* .section-two-list-item {
         width: calc((100% - 24px) / 2)
-    }
+    } */
 }
 
 @media screen and (min-width: 1158px) {
