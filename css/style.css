@@ -434,7 +434,7 @@ button {
 
 @media screen and (min-width: 1158px) {
     .hero {
-        max-width: 1158px;
+        max-width: 1440px;
         min-height: 600px;
         padding: 188px 0;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/bg.jpg);
@@ -586,7 +586,7 @@ button {
 }
 
 .team {
-    max-width: 320px;
+    /* max-width: 320px; */
     margin: 0 auto;
 }
 
@@ -691,9 +691,9 @@ button {
         padding-left: 108px;
     }
 
-    .team {
+    /* .team {
         max-width: 768px;
-        }
+        } */
 
     .section-two-list {
         display: flex;
@@ -713,9 +713,9 @@ button {
         padding: 120px 0 120px 0;
     }
 
-    .team {
+    /* .team {
         max-width: 1158px;
-        }
+        } */
 
     .section-two-list {
         flex-wrap: nowrap;
